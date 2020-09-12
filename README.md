@@ -9,3 +9,5 @@
 Semester project for the Big Data Analysis using Python MSc course of National and Kapodistrian University of Athens 
 
 Links above drive to bathing water quality data for Attica Region
+
+More info: http://helios.media.uoa.gr/datajour/?p=5285
